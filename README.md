@@ -938,6 +938,7 @@ $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
 
+
 cat forctype1.sh 
 ```bash
 #!/bin/bash
@@ -1063,6 +1064,7 @@ fi
  ./funcex.sh 1 2
 
 
+
  
 cat argshift.sh
 ```bash
@@ -1075,9 +1077,6 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
-
-
-
 
 
 $ ./argshift.sh 1 2 3
