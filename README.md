@@ -102,7 +102,6 @@ cut -d "|" -f 1 file22
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-<img width="553" height="78" alt="image" src="https://github.com/user-attachments/assets/2f555914-f970-41ab-b821-bf97714f62a7" />
 
 
 cat < newfile 
